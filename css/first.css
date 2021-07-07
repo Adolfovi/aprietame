@@ -1,0 +1,31 @@
+body{
+    background-color: #ffede2;
+
+}
+
+
+
+
+
+#btn{
+    background-color: #ffede2;
+    width: 145px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    position: absolute;
+}
+
+#core{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #ffffff;
+    font-weight: bolder;
+
+}
